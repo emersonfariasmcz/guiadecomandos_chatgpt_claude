@@ -1,6 +1,10 @@
 # ⚡ Guia Prático: Atalhos de Instrução para ChatGPT e Claude
 
-A diferença entre usar a Inteligência Artificial como um mero gerador de texto e transformá-la em uma verdadeira assistente estratégica está na forma como você dá os comandos. Este guia reúne atalhos de **Prompt Engineering** — gatilhos iniciados por barra (`/`) que avisam a IA de que ela deve adotar uma postura, formato ou linha de raciocínio específica.
+A diferença entre usar a Inteligência Artificial como um mero gerador de texto e transformá-la em uma verdadeira assistente estratégica está na forma como você dá os comandos. 
+
+Este guia reúne atalhos altamente úteis de **Prompt Engineering**, "gatilhos" comportamental iniciados por barra (`/`) que avisam a IA de que ela deve adotar uma postura, formato ou linha de raciocínio específica.
+
+Embora funcionem em qualquer LLM (Large Language Model), dividimos este guia em duas partes para otimizar o seu uso: Formatação/Criação (ideal para ChatGPT) e Análise Profunda (ideal para Claude).
 
 Dividimos este repositório em duas frentes: **Formatação e Criação** (focadas em produtividade) e **Análise Crítica e Estratégia** (focadas em profundidade).
 
