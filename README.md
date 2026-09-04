@@ -17,360 +17,290 @@ Dividimos este repositório em duas frentes: **Formatação e Criação** (focad
 *   **`/list`**
     *   **O que faz:** Cria listas organizadas.
     *   **Exemplo prático:** `/list as melhores práticas de SEO para um site em WordPress.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/rewrite`**
     *   **O que faz:** Reescreve um texto.
     *   **Exemplo prático:** `/rewrite este rascunho de e-mail cobrando um cliente atrasado.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/improve`**
     *   **O que faz:** Melhora um texto.
     *   **Exemplo prático:** `/improve a descrição deste projeto em React para o meu portfólio.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/summarize`**
     *   **O que faz:** Resume um conteúdo.
     *   **Exemplo prático:** `/summarize as atualizações mais recentes da documentação do Tailwind CSS.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/outline`**
     *   **O que faz:** Estrutura um conteúdo.
     *   **Exemplo prático:** `/outline um escopo de projeto para uma agência de IA corporativa.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/expand`**
     *   **O que faz:** Desenvolve uma ideia.
     *   **Exemplo prático:** `/expand a ideia de integrar automação de atendimento via WhatsApp em negócios locais.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/shorten`**
     *   **O que faz:** Encurta um texto.
     *   **Exemplo prático:** `/shorten esta explicação sobre o funcionamento de APIs REST.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/simplify`**
     *   **O que faz:** Simplifica uma explicação.
     *   **Exemplo prático:** `/simplify como funciona a progressão cromática na teoria musical para um iniciante.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/humanize`**
     *   **O que faz:** Deixa o texto mais natural.
     *   **Exemplo prático:** `/humanize esta mensagem automática de boas-vindas do meu site.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/professional`**
     *   **O que faz:** Adapta texto em tom profissional.
     *   **Exemplo prático:** `/professional ajuste esta proposta de desenvolvimento freelancer.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/persuasive`**
     *   **O que faz:** Torna o texto mais persuasivo.
     *   **Exemplo prático:** `/persuasive crie uma copy para vender serviços de criação de Dashboards.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/storytelling`**
     *   **O que faz:** Transforma uma ideia em narrativa.
     *   **Exemplo prático:** `/storytelling conte a jornada de um analista administrativo que migrou para a área de dados.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/hook`**
     *   **O que faz:** Cria ganchos para prender atenção.
     *   **Exemplo prático:** `/hook 5 ganchos para um post sobre os erros mais comuns no Power BI.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/caption`**
     *   **O que faz:** Cria legendas.
     *   **Exemplo prático:** `/caption legenda para uma foto de corrida de rua em Maceió.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/cta`**
     *   **O que faz:** Cria chamadas para ação.
     *   **Exemplo prático:** `/cta chamadas fortes para fechar orçamentos de criação de landing pages.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/reel`**
     *   **O que faz:** Estrutura roteiros para Reels.
     *   **Exemplo prático:** `/reel roteiro de 30 segundos sobre como configurar impressoras 3D Bambu Lab.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/carousel`**
     *   **O que faz:** Estrutura carrosséis.
     *   **Exemplo prático:** `/carousel os 5 passos do processo de ETL em dados.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/stories`**
     *   **O que faz:** Cria sequências de Stories.
     *   **Exemplo prático:** `/stories sequência mostrando os bastidores do desenvolvimento de um app em Flutter.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/brainstorm`**
     *   **O que faz:** Gera várias ideias.
     *   **Exemplo prático:** `/brainstorm ideias de nichos para desenvolvimento web freelancer.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/examples`**
     *   **O que faz:** Cria exemplos práticos.
     *   **Exemplo prático:** `/examples de fórmulas DAX avançadas para cálculo de faturamento.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 ### 🖼️ Imagens e Estilos Visuais
 
 *   **`/comicstrip`**
     *   **O que faz:** Transforma uma ideia em quadrinhos.
     *   **Exemplo prático:** `/comicstrip a vida de um dev resolvendo um bug de SQL.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/handwritten`**
     *   **O que faz:** Cria estética manuscrita.
     *   **Exemplo prático:** `/handwritten gere um prompt de imagem de anotações de estudo de programação.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/infographic`**
     *   **O que faz:** Organiza informações como infográfico.
     *   **Exemplo prático:** `/infographic a evolução das linguagens de programação web.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/mindmap`**
     *   **O que faz:** Cria mapas mentais.
     *   **Exemplo prático:** `/mindmap os conhecimentos necessários para ser um Desenvolvedor Web Full-stack.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/diagram`**
     *   **O que faz:** Representa conceitos visualmente.
     *   **Exemplo prático:** `/diagram arquitetura de um banco de dados relacional.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/timeline`**
     *   **O que faz:** Organiza informações em linha do tempo.
     *   **Exemplo prático:** `/timeline o histórico das versões do PHP.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/flowchart`**
     *   **O que faz:** Cria fluxogramas.
     *   **Exemplo prático:** `/flowchart processo de compra de materiais cirúrgicos e faturamento hospitalar.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/poster`**
     *   **O que faz:** Estrutura um pôster.
     *   **Exemplo prático:** `/poster evento online sobre o futuro da IA no mundo corporativo.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/visualize`**
     *   **O que faz:** Transforma conceitos em visual.
     *   **Exemplo prático:** `/visualize explique a escala de Mohs em mineralogia como se fosse uma imagem.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/sketch`**
     *   **O que faz:** Cria estética de esboço.
     *   **Exemplo prático:** `/sketch descreva um prompt visual para um wireframe de site.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/minimalist`**
     *   **O que faz:** Direciona para estilo minimalista.
     *   **Exemplo prático:** `/minimalist design system para um dashboard financeiro escuro.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/cinematic`**
     *   **O que faz:** Cria estética cinematográfica.
     *   **Exemplo prático:** `/cinematic descreva a iluminação ideal para gravar vídeos de tecnologia.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/photorealistic`**
     *   **O que faz:** Direciona para visual fotorealista.
     *   **Exemplo prático:** `/photorealistic prompt de imagem de um setup de desenvolvimento com dois monitores.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
-
+   
 *   **`/watercolor`**
     *   **O que faz:** Cria estética de aquarela.
     *   **Exemplo prático:** `/watercolor descreva um logo para um projeto de música.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/illustration`**
     *   **O que faz:** Direciona para estilo de ilustração.
     *   **Exemplo prático:** `/illustration vetor de uma pessoa analisando gráficos no Excel.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 ### 📅 Produtividade e Organização
 
 *   **`/table`**
     *   **O que faz:** Organiza informações em tabela.
     *   **Exemplo prático:** `/table compare hospedagens VPS para rodar aplicações em React.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/checklist`**
     *   **O que faz:** Cria listas de verificação.
     *   **Exemplo prático:** `/checklist o que revisar antes de publicar um site WordPress.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/steps`**
     *   **O que faz:** Divide tarefas em etapas.
     *   **Exemplo prático:** `/steps como migrar um banco de dados SQL para nuvem.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/stepbystep`**
     *   **O que faz:** Explica passo a passo.
     *   **Exemplo prático:** `/stepbystep instalação e configuração de uma impressora 3D.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/todo`**
     *   **O que faz:** Transforma ideias em tarefas.
     *   **Exemplo prático:** `/todo planejamento de estudos diários focado em inglês e programação.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/prioritize`**
     *   **O que faz:** Ajuda a definir prioridades.
     *   **Exemplo prático:** `/prioritize entre aprender Flutter, aprofundar em PHP ou estudar DevOps.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/schedule`**
     *   **O que faz:** Organiza atividades.
     *   **Exemplo prático:** `/schedule rotina de treinos de corrida para quem trabalha no setor comercial o dia todo.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/calendar`**
     *   **O que faz:** Estrutura um calendário.
     *   **Exemplo prático:** `/calendar planejamento de postagens no LinkedIn para 30 dias.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/template`**
     *   **O que faz:** Cria modelos reutilizáveis.
     *   **Exemplo prático:** `/template documento de requisitos de software para enviar a novos clientes freelancers.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/organize`**
     *   **O que faz:** Organiza informações.
     *   **Exemplo prático:** `/organize estas anotações soltas sobre teoria musical e escalas menores.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 ### 📈 Marketing e Vendas
 
 *   **`/marketing`**
     *   **O que faz:** Desenvolve estratégias de marketing.
     *   **Exemplo prático:** `/marketing plano de captação de clientes B2B para desenvolvimento de sistemas.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/sales`**
     *   **O que faz:** Cria estratégias de vendas.
     *   **Exemplo prático:** `/sales roteiro de abordagem fria (cold outreach) pelo LinkedIn.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/offer`**
     *   **O que faz:** Estrutura uma oferta.
     *   **Exemplo prático:** `/offer pacote de criação de sites focado em clínicas corporativas.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/persona`**
     *   **O que faz:** Define uma persona.
     *   **Exemplo prático:** `/persona o perfil ideal do gestor que contrata analistas de dados.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/painpoints`**
     *   **O que faz:** Identifica dores do público.
     *   **Exemplo prático:** `/painpoints quais os maiores problemas enfrentados pelo setor de faturamento de empresas?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/benefits`**
     *   **O que faz:** Destaca benefícios de uma oferta.
     *   **Exemplo prático:** `/benefits por que ter um dashboard em Power BI é melhor que planilhas estáticas.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/objections`**
     *   **O que faz:** Trabalha objeções.
     *   **Exemplo prático:** `/objections argumentos para quando o cliente diz que o orçamento do site está caro.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/positioning`**
     *   **O que faz:** Trabalha posicionamento.
     *   **Exemplo prático:** `/positioning como me destacar como consultor de Business Intelligence no Nordeste.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/valueproposition`**
     *   **O que faz:** Cria uma proposta de valor.
     *   **Exemplo prático:** `/valueproposition para uma agência focada em automatizar tarefas corporativas com IA.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/competitors`**
     *   **O que faz:** Analisa concorrentes.
     *   **Exemplo prático:** `/competitors o que as maiores ferramentas de BI têm em comum?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/funnel`**
     *   **O que faz:** Estrutura conteúdos para o funil.
     *   **Exemplo prático:** `/funnel conteúdos de atração, consideração e venda para um curso de DAX.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/testimonial`**
     *   **O que faz:** Transforma depoimentos em conteúdo.
     *   **Exemplo prático:** `/testimonial transforme este feedback longo de cliente em uma postagem impactante.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/adcopy`**
     *   **O que faz:** Cria textos para anúncios.
     *   **Exemplo prático:** `/adcopy 3 variações de anúncios de Facebook para atrair leads de desenvolvimento web.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 ### 📊 Análises, Pesquisas e Documentos
 
 *   **`/analyze`**
     *   **O que faz:** Analisa informações ou conteúdos.
     *   **Exemplo prático:** `/analyze este arquivo CSV contendo os dados de faturamento anual.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/critique`**
     *   **O que faz:** Identifica pontos fortes e fracos.
     *   **Exemplo prático:** `/critique a estrutura da minha landing page de serviços freelance.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/compare`**
     *   **O que faz:** Compara duas ou mais opções.
     *   **Exemplo prático:** `/compare as vantagens de focar em React vs. focar em Flutter em 2026.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/proscons`**
     *   **O que faz:** Apresenta prós e contras.
     *   **Exemplo prático:** `/proscons trabalhar como CLT na área administrativa vs. focar apenas na área de TI.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/keypoints`**
     *   **O que faz:** Extrai os pontos principais.
     *   **Exemplo prático:** `/keypoints do artigo recente sobre atualizações no algoritmo de busca.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/research`**
     *   **O que faz:** Estrutura uma pesquisa.
     *   **Exemplo prático:** `/research tendências de mercado imobiliário e financiamentos habitacionais no nordeste.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/faq`**
     *   **O que faz:** Cria perguntas frequentes.
     *   **Exemplo prático:** `/faq para a página de suporte técnico de um aplicativo de rádio web.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/report`**
     *   **O que faz:** Estrutura informações em relatório.
     *   **Exemplo prático:** `/report organize esses dados brutos em um relatório de fechamento de mês.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/summary`**
     *   **O que faz:** Cria um resumo executivo.
     *   **Exemplo prático:** `/summary da documentação técnica da API de integração de pagamentos.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/extract`**
     *   **O que faz:** Extrai informações específicas.
     *   **Exemplo prático:** `/extract apenas as datas e valores deste contrato em PDF.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/translate`**
     *   **O que faz:** Traduz conteúdos.
     *   **Exemplo prático:** `/translate esta documentação técnica do inglês para português mantendo os termos da área.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/factcheck`**
     *   **O que faz:** Ajuda a verificar informações.
     *   **Exemplo prático:** `/factcheck verifique se essas estatísticas sobre o uso da IA no mercado de análise de dados estão corretas.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 ---
 
@@ -381,152 +311,122 @@ Uma das formas mais simples de melhorar sua interação é dizer qual tipo de co
 *   **`/EXPERT`**
     *   **O que faz:** Faz a IA assumir uma perspectiva mais especializada sobre o assunto[cite: 5].
     *   **Exemplo prático:** `/EXPERT Como um Desenvolvedor Sênior, analise a arquitetura deste projeto PHP.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/CRITIC`**
     *   **O que faz:** Pede uma análise crítica em vez de uma resposta simplesmente positiva[cite: 5].
     *   **Exemplo prático:** `/CRITIC Avalie meu currículo. O que pode estar me desclassificando nas entrevistas para área de dados?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/DEEP`**
     *   **O que faz:** Pede uma análise mais aprofundada, evitando respostas superficiais[cite: 5].
     *   **Exemplo prático:** `/DEEP Como estruturar um banco de dados otimizado para um sistema administrativo complexo.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/RISK`**
     *   **O que faz:** Coloca os riscos no centro da análise[cite: 5].
     *   **Exemplo prático:** `/RISK Quais as vulnerabilidades de expor esta API publicamente sem token de segurança?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/CHANCE`**
     *   **O que faz:** Busca oportunidades que podem estar passando despercebidas[cite: 5].
     *   **Exemplo prático:** `/CHANCE O que o mercado local de Maceió mais precisa em termos de tecnologia para negócios?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/DEVIL`**
     *   **O que faz:** Pede que a IA faça o papel de advogado do diabo[cite: 5].
     *   **Exemplo prático:** `/DEVIL Eu acho que WordPress é suficiente para qualquer site. Destrua esse meu argumento.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/DECISION`**
     *   **O que faz:** Ajuda a estruturar uma decisão considerando diferentes cenários[cite: 5].
     *   **Exemplo prático:** `/DECISION Comprar um imóvel financiado agora ou investir o valor para continuar no aluguel e escalar a carreira?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/COMPARE`**
     *   **O que faz:** Coloca alternativas lado a lado[cite: 5].
     *   **Exemplo prático:** `/COMPARE Focar em estruturar dashboards no Excel vs. migrar toda a operação para o Power BI.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/ALT3`**
     *   **O que faz:** Evita ficar preso à primeira ideia, pedindo alternativas[cite: 5].
     *   **Exemplo prático:** `/ALT3 Apresente outras formas de monetizar habilidades de programação além de criar sites.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/PLAN`**
     *   **O que faz:** Transforma uma ideia em plano de ação[cite: 5].
     *   **Exemplo prático:** `/PLAN Roteiro de transição da área comercial/faturamento para Desenvolvedor Web em 6 meses.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/REVIEW`**
     *   **O que faz:** Pede uma segunda análise sobre algo que já foi produzido[cite: 5].
     *   **Exemplo prático:** `/REVIEW Este código de integração do meu portfólio. Existe alguma forma mais limpa de escrevê-lo?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/SIMPLE`**
     *   **O que faz:** Simplifica uma explicação técnica[cite: 5].
     *   **Exemplo prático:** `/SIMPLE O que é arquitetura de microsserviços?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/TEACHER`**
     *   **O que faz:** Transforma a IA em um professor[cite: 5].
     *   **Exemplo prático:** `/TEACHER Me ensine a construir uma modelagem dimensional do zero, me faça perguntas durante o processo.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/EXAMPLE`**
     *   **O que faz:** Força a explicação a sair do campo abstrato[cite: 5].
     *   **Exemplo prático:** `/EXAMPLE Mostre como uma função JOIN funciona em SQL com duas tabelas reais do setor de compras.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/STEPS`**
     *   **O que faz:** Transforma uma tarefa em etapas[cite: 5].
     *   **Exemplo prático:** `/STEPS Como lançar o projeto RádiosDevStream na web de forma profissional.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/CHECKLIST`**
     *   **O que faz:** Transforma uma orientação em uma lista de verificação[cite: 5].
     *   **Exemplo prático:** `/CHECKLIST Validações de segurança antes de subir um banco de dados para produção.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/TABLE`**
     *   **O que faz:** Organiza informações para facilitar comparação e visualização[cite: 5].
     *   **Exemplo prático:** `/TABLE Comparativo de custos e benefícios entre as melhores impressoras 3D do mercado.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/VISUAL`**
     *   **O que faz:** Pede uma representação mais visual da informação[cite: 5].
     *   **Exemplo prático:** `/VISUAL Mostre o funil de vendas de serviços freelance em formato de texto visual.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/SHORT`**
     *   **O que faz:** Reduz a resposta sem perder o essencial[cite: 5].
     *   **Exemplo prático:** `/SHORT O que é Tailwind CSS e por que usá-lo.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/NATURAL`**
     *   **O que faz:** Ajuda a deixar um texto menos artificial[cite: 5].
     *   **Exemplo prático:** `/NATURAL Reescreva minha biografia do LinkedIn para não soar robótica.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/CONTEXT`**
     *   **O que faz:** Pede que a IA considere explicitamente o contexto antes de responder[cite: 5].
     *   **Exemplo prático:** `/CONTEXT Sou autônomo, casado e busco organização financeira. Como montar um plano para nós?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/GOAL`**
     *   **O que faz:** Coloca o objetivo no centro da resposta[cite: 5].
     *   **Exemplo prático:** `/GOAL Meu objetivo é aumentar visitas no portfólio. Quais ajustes técnicos em código posso fazer?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/AUDIENCE`**
     *   **O que faz:** Define para quem a resposta deve ser construída[cite: 5].
     *   **Exemplo prático:** `/AUDIENCE Explique os benefícios de automação de dados. O público são gestores de clínicas médicas.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/FORMAT`**
     *   **O que faz:** Define exatamente como você quer receber o resultado[cite: 5].
     *   **Exemplo prático:** `/FORMAT Entregue os resultados desta extração de dados em um arquivo JSON válido.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/CRITERIA`**
     *   **O que faz:** Define os critérios que serão usados para avaliar a resposta[cite: 5].
     *   **Exemplo prático:** `/CRITERIA Avalie essas duas opções de hospedagem web com base apenas em: Velocidade, Preço e Suporte.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/CONSTRAINT`**
     *   **O que faz:** Mostra as limitações que a IA precisa respeitar[cite: 5].
     *   **Exemplo prático:** `/CONSTRAINT Crie um script de automação que rode em um servidor com apenas 1GB de RAM e sem banco de dados.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/OUTPUT`**
     *   **O que faz:** Deixa explícito o que precisa ser entregue no final[cite: 5].
     *   **Exemplo prático:** `/OUTPUT Ao final da explicação teórica sobre as escalas, me dê exatamente a tablatura para copiar.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/REWRITE`**
     *   **O que faz:** Pede uma nova versão mantendo a intenção original[cite: 5].
     *   **Exemplo prático:** `/REWRITE O tom do meu artigo sobre Power BI está muito passivo, deixe-o mais incisivo e confiante.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/FOCUS`**
     *   **O que faz:** Redireciona a resposta para uma prioridade específica[cite: 5].
     *   **Exemplo prático:** `/FOCUS Foque inteiramente na parte de otimização de consultas SQL, ignore a parte de design de interface.`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 *   **`/FINAL`**
     *   **O que faz:** Pede uma conclusão prática depois da análise[cite: 5].
     *   **Exemplo prático:** `/FINAL Baseado nas análises do código e da infraestrutura, devo mudar de servidor agora? Sim ou não, e por quê?`
-    *   *[📸 Insira imagem do prompt e resultado aqui]*
 
 ---
 
