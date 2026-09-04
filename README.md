@@ -443,12 +443,12 @@ O verdadeiro ganho aparece quando você combina instruções[cite: 5]. Ao invés
 
 ---
 
+## 🧑‍💻 Meu contato - Criador deste Guia
+
+- 💼 **LinkedIn**: [linkedin.com/in/emersonfariasbr](https://www.linkedin.com/in/emersonfariasbr)  
+- 🌐 **Site/Portfólio**: [emersonfarias.com.br](https://www.emersonfarias.com.br)  
+- 💻 **GitHub**: [@emersonfariasmcz](https://github.com/emersonfariasmcz)  
+- 📸 **Instagram**: [@emersonfarias.dev](https://www.instagram.com/emersonfarias.dev)
+- 🎥 **YouTube**: [@emersonfariasdev](https://www.youtube.com/@emersonfariasdev)
+
 **Gostou deste guia completo? Deixe uma ⭐ no repositório!**
-
-📬 **Conecte-se comigo e acompanhe mais dicas de dev e análise de dados:**
-*   💻 **GitHub:** [@emersonfariasmcz](https://github.com/emersonfariasmcz)
-*   💼 **LinkedIn:** [linkedin.com/in/emersonfariasbr](https://linkedin.com/in/emersonfariasbr)
-*   🌐 **Portfólio:** [emersonfarias.com.br](https://emersonfarias.com.br)
-*   📸 **Instagram:** [@emersonfarias.dev](https://instagram.com/emersonfarias.dev)
-*   🎥 **YouTube:** [@emersonfariasdev](https://youtube.com/@emersonfariasdev)
-
